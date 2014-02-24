@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+/derby.log
+/.settings
+/bin
+/target
+/.classpath
+/.project
